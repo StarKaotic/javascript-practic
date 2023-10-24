@@ -130,3 +130,5 @@
 // mostrar la edad o el sexo de persona x de la siguiente manera
 
 //console.log(persona.masculino)
+
+//end
